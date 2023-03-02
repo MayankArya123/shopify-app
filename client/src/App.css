@@ -1,0 +1,27 @@
+.main {
+  margin-top: 1rem;
+
+  display: flex;
+}
+.main .sidebar{
+  width: 20%;
+}
+.main .data-table{
+  width: 80%;
+}
+
+.Polaris-Checkbox__Backdrop{
+  display: none !important;
+} 
+
+.edit-form {
+  width: 40%;
+  margin: auto;
+  margin-top: 3rem;
+
+}
+
+.save-btn{
+  background:blueviolet;
+  color: white;
+}
